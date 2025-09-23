@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1757640917899,
+      "tag": "0000_broad_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1757642001712,
+      "tag": "0001_greedy_phantom_reporter",
+      "breakpoints": true
+    }
+  ]
+}
